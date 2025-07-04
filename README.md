@@ -140,5 +140,12 @@ payment-service/
 
 ---
 
-## Contato
-Este microserviço faz parte da plataforma **AmigoPay**, projeto mantido por **Eduardo Sartori**.
+## Autor
+
+Desenvolvido por **Eduardo Sartori** — *Software Developer*
+
+- Especialista em: Java, Spring Boot, Microservices, Kafka, SQL Server, PostgreSQL
+- Em constante evolução, com foco em arquitetura distribuída e boas práticas profissionais
+- Contato: [linkedin.com/in/eduardosartori](https://www.linkedin.com/in/oeduardosartori)
+
+---
